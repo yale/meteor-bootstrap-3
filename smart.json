@@ -1,9 +1,9 @@
 {
   "name": "bootstrap-3",
-  "description": "Just like meteor's original bootstrap package but with version 3.0.",
+  "description": "bootstrap 3.0 packaged for meteor",
   "homepage": "https://github.com/mangasocial/meteor-bootstrap-3",
   "author": "Manga Social Team (http://mangasocial.com)",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
   "packages": { }
 }
