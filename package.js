@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Front-end framework from Twitter"
+  summary: "Provides bootstrap 3."
 });
 
 Package.on_use(function (api) {
